@@ -23,5 +23,5 @@
 ## 📩 Contact me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/thiagolmoraes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thiagolmoraes-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/thiagomangia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thiagolmoraes-blue?style=flat&logo=linkedin"></a>
 </p>
