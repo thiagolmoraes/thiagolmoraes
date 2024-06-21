@@ -12,7 +12,7 @@
 ### Information Security
 
 - Offensive Security ⚔️
-- Purple Team ![Purple Team](https://img.icons8.com/color/48/000000/purple-circle.png)
+- Purple Team 🟣
 
 ## 🏆 Certifications
 
