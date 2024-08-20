@@ -8,6 +8,7 @@
 
 - Python 🐍
 - Rust 🦀
+- Javascript
 
 ### Information Security
 
