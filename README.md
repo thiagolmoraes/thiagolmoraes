@@ -17,9 +17,10 @@
 
 ## 🏆 Certifications
 
+- Cisco - CCNA
 - DCPT - Desec Security
 - INE - Web Application Penetration Tester
-- Cisco - CCNA
+- INE - Certified Professional Penetration Tester
 
 ## 📩 Contact me
 
