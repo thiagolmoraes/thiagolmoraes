@@ -13,7 +13,6 @@
 ### Information Security
 
 - Offensive Security ⚔️
-- Purple Team 🟣
 
 ## 🏆 Certifications
 
