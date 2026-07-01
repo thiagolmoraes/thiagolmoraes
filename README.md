@@ -1,28 +1,22 @@
-# 👋 Hello, I'm Thiago Mangia
+# 👋 Hello, Stalkers!
 
-🚀 I have a strong interest in both security and development. Here’s a summary of my expertise:
+🚀 Security specialist focused on offensive operations and autonomous AI systems. Here's a summary of my expertise:
 
-## 🚀 Strong Technical Knowledge
+## ⚔️🤖 Offensive AI & Security Engineering
+- Autonomous Pentest Agents
+- Multi-agent Orchestration
+- Red Team Operations
+- Agentic Architectures & LLM Pipelines
+- Mobile & Web Penetration Testing
+- SIEM Engineering & Observability
 
-### Development
-
+## 🚀 Development
 - Python 🐍
 - Rust 🦀
-- Javascript
-
-### Information Security
-
-- Offensive Security ⚔️
+- JavaScript
 
 ## 🏆 Certifications
-
 - Cisco - CCNA
 - DCPT - Desec Security
 - INE - Web Application Penetration Tester
 - INE - Certified Professional Penetration Tester
-
-## 📩 Contact me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/thiagomangia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@thiagolmoraes-blue?style=flat&logo=linkedin"></a>
-</p>
